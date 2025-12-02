@@ -1,3 +1,4 @@
+
 // read contents of data/day1.txt into array
 var lines = File.ReadAllLines("data/day1.txt");
 // dial starts at 50
